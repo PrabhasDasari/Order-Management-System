@@ -111,10 +111,6 @@ class OrderManagement:
         order_id = int(input("Enter order ID: "))
 
         result = self.processor.cancelOrder(user_id, order_id)
-        if result:
-            print("Order cancelled successfully.")
-        else:
-            print("Failed to cancel order.")
 
     def get_all_products(self):
         products = self.processor.getAllProducts()

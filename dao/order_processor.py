@@ -55,11 +55,11 @@ class OrderProcessor(IOrderManagementRepository):
             else:
                 print("Failed to connect to database.")
         except UserNotFound as e:
-            print("Error cancelling order:", e)
+            print("Error :", e)
         except OrderNotFound as e:
-            print("Error cancelling order:", e)
+            print("Error :", e)
         except Exception as e:
-            print("Error cancelling order:", e)
+            print("Error :", e)
         finally:
             if connection:
                 connection.close()
