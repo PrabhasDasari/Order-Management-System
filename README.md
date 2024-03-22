@@ -47,10 +47,10 @@ Reference Screenshots
 
 3: Create Order
   ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/4c775213-18a8-4b74-8071-b9dc4848ed3e)
-  ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/dda8dcef-2fea-40c9-88b0-e16ebcd3862b)
+  ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/b4675eb8-fcae-4269-850d-05ca4fcca5b5)
   
 4: Get All Products
-  ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/d9b49f21-dce6-4b21-a689-f12538913188)
+  ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/2bd5995b-617d-41e4-b0a7-494e30dc6519)
   ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/90d8132f-b8dc-451e-a8b0-e980cdf4dc8f)
 
 5: Get Orders by User
