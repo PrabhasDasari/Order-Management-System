@@ -53,18 +53,17 @@ Reference Screenshots
   ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/91443b48-ea84-41e4-a77b-2c08602f40d7)
   ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/a381e900-e17c-441a-ac39-8b63428936b5)
 
-
 5: Get Orders by User
-  ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/7e168b1c-a27a-472b-b706-bd118c9a82a0)
-  ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/db86354f-bf30-4b17-95ff-086edd47959d)
+  ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/518a2041-bc9d-4bcc-888a-4fd84770e374)
+  ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/2c696a58-734c-47d0-aa3f-60c276abe437)
 
 6: Cancel Order
-  ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/5f026a3d-e518-4679-8af5-ad2f40110243)
-  ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/f161a7ae-2f26-4849-bb64-b463893bed18)
+  ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/54156b86-4acd-470f-b8ae-ca531319aba8)
+  ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/095e621a-30bd-412f-9382-9c8def52680a)
 
 7: User Not Found Exception
-  ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/ecdff243-6a67-4675-a1af-1a67994ed48c)
-  
+  ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/65eaeb91-f28f-41ba-8937-d08de25a0e9f)
+
 8: Order Not Found Exception
   ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/b7f6ca82-f8c4-4a35-8dd9-d45c084ca052)
 
