@@ -4,6 +4,7 @@ CREATE DATABASE OMS;
 USE OMS;
 
 -- Create User table
+
 CREATE TABLE [User] (
     UserId INT PRIMARY KEY,
     Username NVARCHAR(100),
@@ -11,6 +12,7 @@ CREATE TABLE [User] (
     Role NVARCHAR(50)
 );
 -- Create Product table
+
 CREATE TABLE Product (
     ProductId INT PRIMARY KEY,
     ProductName NVARCHAR(100),
@@ -21,12 +23,14 @@ CREATE TABLE Product (
 );
 
 -- Create Order table
+
 CREATE TABLE [Order] (
     OrderId INT IDENTITY(1, 1) PRIMARY KEY,
     UserId INT FOREIGN KEY REFERENCES [User] (UserId)
 );
 
 -- Create OrderProduct table to represent the many-to-many relationship between Order and Product
+
 CREATE TABLE OrderProduct (
     OrderId INT,
     ProductId INT,
