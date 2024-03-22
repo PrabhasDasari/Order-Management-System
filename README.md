@@ -37,6 +37,7 @@ CREATE TABLE OrderProduct (
 );
 
 Reference Screenshots
+
 1: Adding User
 ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/0d39d6d2-14a5-4f13-a053-d642175d5236)
 ![image](https://github.com/PrabhasDasari/Order-Management-System/assets/124909746/028b0f29-5bf2-4358-be19-35a059a63e4e)
