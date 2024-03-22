@@ -23,7 +23,7 @@ CREATE TABLE Product (
 -- Create Order table
 CREATE TABLE [Order] (
     OrderId INT IDENTITY(1, 1) PRIMARY KEY,
-    UserId INT FOREIGN KEY REFERENCES [User](UserId)
+    UserId INT FOREIGN KEY REFERENCES [User] (UserId)
 );
 
 -- Create OrderProduct table to represent the many-to-many relationship between Order and Product
@@ -32,7 +32,7 @@ CREATE TABLE OrderProduct (
     ProductId INT,
     Quantity INT,
     PRIMARY KEY (OrderId, ProductId),
-    FOREIGN KEY (OrderId) REFERENCES [Order](OrderId),
+    FOREIGN KEY (OrderId) REFERENCES [Order] (OrderId),
     FOREIGN KEY (ProductId) REFERENCES Product(ProductId)
 );
 
